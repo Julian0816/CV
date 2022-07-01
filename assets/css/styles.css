@@ -301,8 +301,36 @@ img{
 }
 
 /* ====== PROFILE ========*/
+.profile__description {
+    text-align: center;
+}
 
 /* ====== EDUCATION AND EXPERIENCE ========*/
+.education__content {
+    display: flex;
+}
+
+.education__time {
+    padding-right: 1rem;
+}
+
+.education__rounder {
+    position: relative;
+    display: block;
+    width: 16px;
+    height: 16px;
+    background-color: var(--text-color-light);
+    border-radius: 50%;
+    margin-top: 1.3rem; /*This could be a possible bug, meant to be .25rem*/
+}
+
+.education__line {
+    display: block;
+    width: 2px;
+    height: 110px;
+    background-color: var(--text-color);
+    transform: translate(7px, 0);
+}
 
 /* ====== SKILLS AND LANGUAGES ========*/
 
