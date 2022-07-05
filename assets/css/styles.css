@@ -127,7 +127,6 @@ img{
 
 .bd-grid {
     display: grid;
-    gap: 1.5rem;
 }
 
 .l-header {
@@ -331,6 +330,7 @@ img{
     background-color: var(--text-color);
     transform: translate(7px, 0);
 }
+
 
 /* ====== SKILLS AND LANGUAGES ========*/
 
