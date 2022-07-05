@@ -1,0 +1,23 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "julz's cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server --port=3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julian0816/CV.git"
+  },
+  "author": "julz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julian0816/CV/issues"
+  },
+  "homepage": "https://github.com/Julian0816/CV#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

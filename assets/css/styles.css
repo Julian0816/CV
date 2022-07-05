@@ -307,6 +307,7 @@ img{
 /* ====== EDUCATION AND EXPERIENCE ========*/
 .education__content {
     display: flex;
+    margin-top: -20.8px;
 }
 
 .education__time {
