@@ -305,12 +305,9 @@ img{
 }
 
 /* ====== EDUCATION AND EXPERIENCE ========*/
-.education__title {
-    margin-top: -5px;
-}
-
 .education__content {
     display: flex;
+    margin-top: -20.8px;
 }
 
 .education__time {
@@ -324,7 +321,7 @@ img{
     height: 16px;
     background-color: var(--text-color-light);
     border-radius: 50%;
-    /* margin-top: 1.3rem; This could be a possible bug, meant to be .25rem */
+    margin-top: 1.3rem; /*This could be a possible bug, meant to be .25rem*/
 }
 
 .education__line {
